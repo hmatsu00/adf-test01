@@ -1,0 +1,9 @@
+{
+	"name": "adftest0809-mat",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "120b6a08-7a8f-4518-b42c-66c89d7dc9a4",
+		"tenantId": "ac7d6dfa-1428-4ee1-8e85-ac00c9fda331"
+	}
+}
